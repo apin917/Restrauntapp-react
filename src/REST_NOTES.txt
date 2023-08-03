@@ -1,0 +1,11 @@
+RESTRAUNT LISTING APP
+
+1. Create a new application :npx create-react-app restarunt-listing-app
+2.cd restraunt-listing-app
+3.code .
+4.Run the application:npm start
+5.Clean the code 
+6.choose a theme using bootwatch and import it in index.js
+7.copy and paste fontawesome cdjns into the index.html
+8.copy and paste google fonts into the index.css
+9.install react bootstrap 

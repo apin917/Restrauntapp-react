@@ -1,0 +1,9 @@
+.cards{
+    margin: 10px;
+    box-shadow: 3px 4px  5px 3px black;
+    border: 2px yellow;
+    /* height: 100px; */
+}
+.text{
+    color:black;
+}
